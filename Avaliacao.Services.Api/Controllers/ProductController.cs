@@ -2,7 +2,6 @@
 using Avaliacao.Application.Interfaces;
 using Avaliacao.Application.ViewModels;
 using Avaliacao.Domain.Core.Bus;
-using Avaliacao.Domain.Core.Notifications;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
